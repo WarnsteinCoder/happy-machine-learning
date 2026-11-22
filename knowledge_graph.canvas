@@ -1,0 +1,415 @@
+{
+  "nodes": [
+    {
+      "id": "ch01_machine_learning_intro",
+      "type": "file",
+      "file": "01_supervised/ch01_machine_learning_intro/notes.md",
+      "x": 0,
+      "y": 0,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch02_supervised_learning_intro",
+      "type": "file",
+      "file": "01_supervised/ch02_supervised_learning_intro/notes.md",
+      "x": 0,
+      "y": 180,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch03_linear_regression",
+      "type": "file",
+      "file": "01_supervised/ch03_linear_regression/notes.md",
+      "x": 0,
+      "y": 360,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch04_perceptron",
+      "type": "file",
+      "file": "01_supervised/ch04_perceptron/notes.md",
+      "x": 0,
+      "y": 540,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch05_knn",
+      "type": "file",
+      "file": "01_supervised/ch05_knn/notes.md",
+      "x": 0,
+      "y": 720,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch06_naive_bayes",
+      "type": "file",
+      "file": "01_supervised/ch06_naive_bayes/notes.md",
+      "x": 0,
+      "y": 900,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch07_decision_tree",
+      "type": "file",
+      "file": "01_supervised/ch07_decision_tree/notes.md",
+      "x": 0,
+      "y": 1080,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch08_logistic_regression_max_entropy",
+      "type": "file",
+      "file": "01_supervised/ch08_logistic_regression_max_entropy/notes.md",
+      "x": 0,
+      "y": 1260,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch09_support_vector_machine",
+      "type": "file",
+      "file": "01_supervised/ch09_support_vector_machine/notes.md",
+      "x": 0,
+      "y": 1440,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch10_boosting",
+      "type": "file",
+      "file": "01_supervised/ch10_boosting/notes.md",
+      "x": 0,
+      "y": 1620,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch11_hidden_markov_model",
+      "type": "file",
+      "file": "01_supervised/ch11_hidden_markov_model/notes.md",
+      "x": 0,
+      "y": 1800,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch12_conditional_random_field",
+      "type": "file",
+      "file": "01_supervised/ch12_conditional_random_field/notes.md",
+      "x": 0,
+      "y": 1980,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch13_supervised_learning_summary",
+      "type": "file",
+      "file": "01_supervised/ch13_supervised_learning_summary/notes.md",
+      "x": 0,
+      "y": 2160,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch14_unsupervised_learning_intro",
+      "type": "file",
+      "file": "02_unsupervised/ch14_unsupervised_learning_intro/notes.md",
+      "x": 0,
+      "y": 2340,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch15_clustering",
+      "type": "file",
+      "file": "02_unsupervised/ch15_clustering/notes.md",
+      "x": 0,
+      "y": 2520,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch16_singular_value_decomposition",
+      "type": "file",
+      "file": "02_unsupervised/ch16_singular_value_decomposition/notes.md",
+      "x": 0,
+      "y": 2700,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch17_principal_component_analysis",
+      "type": "file",
+      "file": "02_unsupervised/ch17_principal_component_analysis/notes.md",
+      "x": 0,
+      "y": 2880,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch18_em_and_variational_em",
+      "type": "file",
+      "file": "02_unsupervised/ch18_em_and_variational_em/notes.md",
+      "x": 0,
+      "y": 3060,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch19_markov_chain_monte_carlo",
+      "type": "file",
+      "file": "02_unsupervised/ch19_markov_chain_monte_carlo/notes.md",
+      "x": 0,
+      "y": 3240,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch20_latent_semantic_analysis_nmf",
+      "type": "file",
+      "file": "02_unsupervised/ch20_latent_semantic_analysis_nmf/notes.md",
+      "x": 0,
+      "y": 3420,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch21_probabilistic_latent_semantic_analysis",
+      "type": "file",
+      "file": "02_unsupervised/ch21_probabilistic_latent_semantic_analysis/notes.md",
+      "x": 0,
+      "y": 3600,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch22_latent_dirichlet_allocation",
+      "type": "file",
+      "file": "02_unsupervised/ch22_latent_dirichlet_allocation/notes.md",
+      "x": 0,
+      "y": 3780,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch23_unsupervised_learning_summary",
+      "type": "file",
+      "file": "02_unsupervised/ch23_unsupervised_learning_summary/notes.md",
+      "x": 0,
+      "y": 3960,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch24_deep_learning_intro",
+      "type": "file",
+      "file": "03_deep_learning/ch24_deep_learning_intro/notes.md",
+      "x": 0,
+      "y": 4140,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch25_feedforward_neural_network",
+      "type": "file",
+      "file": "03_deep_learning/ch25_feedforward_neural_network/notes.md",
+      "x": 0,
+      "y": 4320,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch26_convolutional_neural_network",
+      "type": "file",
+      "file": "03_deep_learning/ch26_convolutional_neural_network/notes.md",
+      "x": 0,
+      "y": 4500,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch27_recurrent_neural_network",
+      "type": "file",
+      "file": "03_deep_learning/ch27_recurrent_neural_network/notes.md",
+      "x": 0,
+      "y": 4680,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch28_transformer",
+      "type": "file",
+      "file": "03_deep_learning/ch28_transformer/notes.md",
+      "x": 0,
+      "y": 4860,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch29_gpt_and_bert",
+      "type": "file",
+      "file": "03_deep_learning/ch29_gpt_and_bert/notes.md",
+      "x": 0,
+      "y": 5040,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch30_variational_autoencoder",
+      "type": "file",
+      "file": "03_deep_learning/ch30_variational_autoencoder/notes.md",
+      "x": 0,
+      "y": 5220,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch31_generative_adversarial_network",
+      "type": "file",
+      "file": "03_deep_learning/ch31_generative_adversarial_network/notes.md",
+      "x": 0,
+      "y": 5400,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch32_diffusion_model",
+      "type": "file",
+      "file": "03_deep_learning/ch32_diffusion_model/notes.md",
+      "x": 0,
+      "y": 5580,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch33_deep_learning_summary",
+      "type": "file",
+      "file": "03_deep_learning/ch33_deep_learning_summary/notes.md",
+      "x": 0,
+      "y": 5760,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch34_reinforcement_learning_intro",
+      "type": "file",
+      "file": "04_reinforcement_learning/ch34_reinforcement_learning_intro/notes.md",
+      "x": 0,
+      "y": 5940,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch35_markov_decision_process",
+      "type": "file",
+      "file": "04_reinforcement_learning/ch35_markov_decision_process/notes.md",
+      "x": 0,
+      "y": 6120,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch36_multi_armed_bandit",
+      "type": "file",
+      "file": "04_reinforcement_learning/ch36_multi_armed_bandit/notes.md",
+      "x": 0,
+      "y": 6300,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch37_value_based_methods",
+      "type": "file",
+      "file": "04_reinforcement_learning/ch37_value_based_methods/notes.md",
+      "x": 0,
+      "y": 6480,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch38_deep_q_network",
+      "type": "file",
+      "file": "04_reinforcement_learning/ch38_deep_q_network/notes.md",
+      "x": 0,
+      "y": 6660,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch39_policy_based_methods",
+      "type": "file",
+      "file": "04_reinforcement_learning/ch39_policy_based_methods/notes.md",
+      "x": 0,
+      "y": 6840,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch40_proximal_policy_optimization",
+      "type": "file",
+      "file": "04_reinforcement_learning/ch40_proximal_policy_optimization/notes.md",
+      "x": 0,
+      "y": 7020,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    },
+    {
+      "id": "ch41_reinforcement_learning_summary",
+      "type": "file",
+      "file": "04_reinforcement_learning/ch41_reinforcement_learning_summary/notes.md",
+      "x": 0,
+      "y": 7200,
+      "width": 280,
+      "height": 120,
+      "color": "1"
+    }
+  ],
+  "edges": []
+}
